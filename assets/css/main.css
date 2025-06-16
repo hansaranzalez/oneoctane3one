@@ -371,7 +371,7 @@
 
 /* Form Enhancements */
 .form-field-focus-within {
-  @apply ring-2 ring-primary-500 ring-opacity-20;
+  @apply ring-2 ring-primary-500/20;
 }
 
 /* Navigation Enhancements */
